@@ -1,3 +1,4 @@
+##Info: This project read csv File from c:\ dreive... "c:\sampleinput.csv"
 # Assecor Assessment Test (DE)
 
 ## Zielsetzung
